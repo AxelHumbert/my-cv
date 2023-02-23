@@ -1,0 +1,12 @@
+.Navigation {
+  display: flex;
+  background-color: lightgoldenrodyellow;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.Navigation p {
+  flex: 33%;
+  text-align: center;
+  font-size: 30px;
+}
